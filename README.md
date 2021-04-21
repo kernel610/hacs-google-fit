@@ -1,8 +1,8 @@
-# Google Fit Sensor
+# Google Fit Sensor (U.S. measurements)
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
-100% based and copied from:
+100% based and copied from sources below and adjusted to support U.S. units of measurements (lbs, miles, ft):
 
 - <https://github.com/zewelor/ha_custom_components/tree/master/google_fit>
 - <https://github.com/hemantkamalakar/haconfigs/tree/master/custom_components/google_fit>
